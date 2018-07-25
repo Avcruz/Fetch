@@ -1,4 +1,3 @@
-<head>
   **Fetch**
 </head>
 <body>
